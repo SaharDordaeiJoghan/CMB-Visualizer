@@ -92,7 +92,7 @@ You are free to use, modify, and distribute with attribution.
 ## Author
 
 **Sahar Dordaei Joghan**  
-July 2025  
+June 2024  
 Created as a clean, accessible introduction to CMB science and visualization using real Planck satellite data.
 
 ---
