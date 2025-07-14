@@ -30,7 +30,7 @@ A clean, scientifically accurate Python tool to visualize the **temperature anis
 
 1. **Install Dependencies**
 
-- Python 3.10+
+Requires Python 3.10+ with the following libraries:
 
    ```bash
    pip install healpy numpy matplotlib
