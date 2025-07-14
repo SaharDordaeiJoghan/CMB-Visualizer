@@ -22,7 +22,7 @@ A clean, scientifically accurate Python tool to visualize the **temperature anis
 | `cmb_visualizer.py`            | Main Python script                                       |
 | `cmb_temperature_mollweide.png`| Output image: CMB anisotropy map in μK                   |
 | `README.md`                    | Project description and usage guide                      |
-| `LICENSE`                      | MIT License,                                             |
+| `LICENSE`                      | MIT License                                              |
 
 ---
 
