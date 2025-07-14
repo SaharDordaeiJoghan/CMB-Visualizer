@@ -8,7 +8,7 @@
 #     std), and saves the resulting full-sky map.
 
 # =================== MIT License ===================
-# Copyright (c) 2025 Sahar Dordaei Joghan
+# Copyright (c) 2023 Sahar Dordaei Joghan
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software to use, modify, distribute, and publish with attribution.
 # ===================================================
