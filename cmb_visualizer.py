@@ -1,6 +1,6 @@
 # cmb_visualizer.py
 # Author: Sahar Dordaei Joghan
-# Date: June 2024
+# Date: August 2023
 # Description:
 #     This script visualizes the Cosmic Microwave Background (CMB) temperature
 #     anisotropies using the Planck 2018 SMICA map. It uses a Mollweide projection,

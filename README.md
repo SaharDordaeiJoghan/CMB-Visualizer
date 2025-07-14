@@ -50,7 +50,7 @@ A clean, scientifically accurate Python tool to visualize the **temperature anis
 3. **Run the Script**
 
    ```bash
-   python cmb_visualizer.py
+   python3 cmb_visualizer.py
    ```
 
 4. **Result**
@@ -92,7 +92,7 @@ You are free to use, modify, and distribute with attribution.
 ## Author
 
 **Sahar Dordaei Joghan**  
-June 2024  
+August 2023  
 Created as a clean, accessible introduction to CMB science and visualization using real Planck satellite data.
 
 ---
