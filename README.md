@@ -1,6 +1,6 @@
 # Planck CMB Temperature Visualizer
 
-A clean, scientifically accurate Python tool to visualize the **temperature anisotropies** in the **Cosmic Microwave Background (CMB)** using the **Planck 2018 SMICA map**. This script loads temperature data, converts it to microkelvin, and generates a full-sky **Mollweide projection** commonly used in cosmology.
+A Python tool to visualize the **temperature anisotropies** in the **Cosmic Microwave Background (CMB)** using the **Planck 2018 SMICA map**. This script loads temperature data, converts it to microkelvin, and generates a full-sky **Mollweide projection** commonly used in cosmology.
 
 ---
 
@@ -93,7 +93,6 @@ You are free to use, modify, and distribute with attribution.
 
 **Sahar Dordaei Joghan**  
 March 2025  
-Created as a clean, accessible introduction to CMB science and visualization using real Planck satellite data.
 
 ---
 
